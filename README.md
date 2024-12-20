@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ASUHacker
-- 👀 I’m interested in languages (Japanese, Russian, French, German, Chinese, maybe some Spanish, Arabic, and Korean this year), martial arts, guitar/songwriting, technology, 
-- 🌱 I’m currently learning what my job is
+- 👀 In addition to cybersecurity, I’m particularly interested in languages (Japanese, Russian, French, German, Chinese, maybe some Spanish, Arabic, and Korean this year), martial arts, guitar/songwriting, AI (use and security), and technology in general
+- 🌱 Always learning
 - 💞️ I’m looking to collaborate on anything you think I can help with.
 
 
